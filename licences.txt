@@ -1,0 +1,55 @@
+LICENSE AGREEMENT
+
+Copyright © UMAR GADDAFI 2025
+All rights reserved.
+
+This Software License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and the author ("Developer") of the software, including all associated files, documentation, and source code (collectively referred to as the "Software"). By using, copying, modifying, or distributing the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not use the Software.
+
+1. Grant of License
+
+The Developer hereby grants you a non-exclusive, worldwide, royalty-free license to use, copy, modify, and distribute the Software, in both source and binary forms, with or without modification, subject to the following conditions:
+
+* You must retain the original copyright notice and this license in all copies or substantial portions of the Software.
+* You may distribute the Software as part of a larger work or in modified form, provided you include attribution to the original Developer and make clear what changes were made.
+* Commercial use is permitted, but the Software is provided “as is,” with no warranties or guarantees of fitness for a particular purpose.
+
+2. Usage of Cryptographic Features
+
+This Software includes encryption and decryption functionalities using the `cryptography` library and is intended to secure the contents of folders and files. While great care has been taken to implement security best practices, the Developer makes **no claim that the Software is suitable for securing highly sensitive or classified information**.
+
+You are solely responsible for selecting secure passwords and handling encrypted files appropriately. If you lose your password or encryption keys, **the Developer cannot recover your data**, and any attempt to do so is at your own risk.
+
+3. Limitations
+
+This Software is intended for educational, personal, and business use cases where basic file and folder encryption is required. You agree not to use the Software for any unlawful activity, including but not limited to:
+
+* Encrypting data that facilitates criminal activity
+* Obfuscating illegal material
+* Circumventing digital rights management or other forms of legal protections
+
+You also agree not to use this Software in critical systems (e.g., medical, military, nuclear, aviation) where failure could result in injury, death, or catastrophic consequences.
+
+4. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. THIS INCLUDES BUT IS NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE DEVELOPER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. User Responsibility
+
+You assume full responsibility for:
+
+* Ensuring you have backups of your data prior to using the encryption features
+* Complying with all local, national, and international laws regarding data privacy and encryption
+* Securing your encryption passwords and keys
+
+Misuse of this Software, intentional or accidental, may result in data loss, and the Developer is not responsible for any such loss.
+
+6. Updates and Modifications
+
+You are encouraged to modify the Software to suit your needs. However, the Developer is not obligated to provide maintenance, support, or updates. If you distribute a modified version of the Software, you must clearly document your changes.
+
+Termination
+
+This license will terminate automatically if you fail to comply with any of the terms and conditions described herein. Upon termination, you must destroy all copies of the Software and cease any further use or distribution.
+
+
+
